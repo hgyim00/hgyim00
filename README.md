@@ -3,9 +3,8 @@
      ========================================================= -->
 
 <p align="center">
-  <img
-    src=
-    "https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20&%20Infrastructure%20Engineer&descAlignY=58&descSize=20"
+    <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:e0f2fe,100:7dd3fc&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=000000&fontAlignY=38&desc=Kubernetes · Cloud · GitOps&descAlignY=64&descSize=20&descColor=000000"
     width="100%"
   />
 </p>
@@ -334,7 +333,7 @@ Areas I plan to explore and expand.
 # 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/정보처리기사-Certified-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/정보처리기사-Certified-7dd3fc?style=flat-square" />
   <img src="https://img.shields.io/badge/SQLD-Certified-2563eb?style=flat-square" />
 </p>
 
@@ -354,21 +353,6 @@ Storage
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hgyim00&show_icons=true&hide_border=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgyim00&amp;layout=compact&amp;hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 # 🤝 Connect
 
 <p align="left">
@@ -381,7 +365,7 @@ Storage
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563eb,100:0f172a&amp;height=120&amp;section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:e0f2fe,100:7dd3fc&height=120&section=footer"
     width="100%"
   />
 </p>
