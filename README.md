@@ -1,125 +1,220 @@
-# Hi, I'm HYEGYUN 👋
+<!-- ===================== HEADER ===================== -->
 
-### Platform & Infrastructure Engineer
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20%26%20Infrastructure%20Engineer&descAlignY=58&descSize=20"
+    width="100%"
+  />
+</p>
 
-I design, build, and operate infrastructure with a focus on **Kubernetes, Cloud Infrastructure, GitOps, and Platform Engineering**.
+<p align="center">
+  <a href="https://github.com/hgyim00">
+    <img src="https://img.shields.io/badge/GitHub-hgyim00-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Platform%20Engineering-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
-My interests are centered around building reliable and automated platforms — from Linux and networking to container orchestration, CI/CD, security, and storage.
+<br/>
+
+## 👋 About Me
+
+I'm a **Platform & Infrastructure Engineer** focused on building reliable, automated, and maintainable infrastructure.
+
+My interests span from **Linux infrastructure and networking to Kubernetes, GitOps, security, storage, and cloud platforms**.
+
+```text
+Infrastructure
+      │
+      ├── Linux
+      ├── Networking
+      ├── Storage
+      └── Security
+      │
+      ▼
+Container Platform
+      │
+      ├── Docker
+      ├── containerd
+      └── Kubernetes
+      │
+      ▼
+Platform Engineering
+      │
+      ├── Cilium / Calico
+      ├── Gateway API
+      ├── Argo CD
+      ├── Vault / ESO
+      └── CI/CD
+      │
+      ▼
+Cloud Infrastructure
+      │
+      ├── Private Cloud
+      ├── Public Cloud
+      ├── Observability
+      └── Infrastructure as Code
+```
 
 > **Build infrastructure. Automate operations. Improve reliability.**
 
 ---
 
-## About Me
-
-* 🏗️ Building and operating **Kubernetes-based platforms**
-* ☁️ Interested in **Cloud Infrastructure & Platform Engineering**
-* ⚙️ Automating infrastructure and deployment workflows
-* 🔐 Exploring **Infrastructure Security & Secrets Management**
-* 🌐 Working with Linux, Networking, Storage, and Container Platforms
-* 🚀 Building GitOps-based deployment environments
-* 📚 Continuously learning and documenting infrastructure engineering
-
----
-
-## Core Skills
-
-### 🖥️ Infrastructure
-
-`Linux` `Ubuntu` `Docker` `containerd`
-
-* Linux system administration
-* Container runtime and containerized workloads
-* Network configuration and troubleshooting
-* Storage and persistent data management
+## 🛠️ Tech Stack
 
 ### ☸️ Kubernetes & Platform
 
-`Kubernetes` `Cilium` `Calico` `Gateway API`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&logo=projectcalico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gateway%20API-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
 * Kubernetes cluster architecture
 * Container orchestration
-* CNI and cluster networking
+* CNI architecture and networking
 * Gateway API
-* Service networking and traffic management
-* Persistent storage
-* Kubernetes workload deployment and operations
+* Service exposure and traffic management
+* Persistent workloads
+* Cluster troubleshooting
+
+---
 
 ### 🔄 CI/CD & GitOps
 
-`GitLab CI` `GitLab Runner` `GitHub Actions` `Argo CD`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
 
-* CI/CD pipeline design
-* GitOps-based deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white" />
+</p>
+
+* Git-based source control
+* GitLab CI/CD
+* GitLab Runner
+* GitHub Actions
+* Argo CD / GitOps
 * Automated application delivery
-* Container image build and deployment
 * Kubernetes manifest management
 
-### 🔐 Security & Secrets
+---
 
-`HashiCorp Vault` `External Secrets Operator`
+### 🌐 Networking
 
-* Secrets management
-* Kubernetes authentication
-* Secret synchronization
-* PKI / encryption technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-### 💾 Database & Messaging
-
-`MySQL` `MongoDB` `Apache Kafka`
-
-* Relational and NoSQL databases
-* Database persistence
-* Event-driven architecture
-* Message-based application integration
-
-### 💿 Storage
-
-`NFS` `Longhorn`
-
-* Persistent Volume architecture
-* Kubernetes persistent storage
-* Network-based storage
-* Backup and recovery considerations
-
-### 🌐 Network & Connectivity
-
-`Cilium` `Calico` `WireGuard` `Tailscale`
+<p align="left">
+  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black" />
+  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&logo=projectcalico&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
+</p>
 
 * Kubernetes networking
 * CNI architecture
 * Network routing
-* VPN and secure remote access
-* Service exposure and traffic management
-
-### 📦 Source Code Management
-
-`Git` `GitHub` `GitLab` `SVN`
-
-> Experience with both modern Git-based workflows and traditional enterprise SCM environments.
+* Gateway and service networking
+* VPN
+* Secure remote connectivity
 
 ---
 
-## Featured Projects
+### 🔐 Security & Secrets
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/External%20Secrets-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+
+* Secrets management
+* Kubernetes authentication
+* Vault Policy
+* KV Secret Engine
+* External Secrets Operator
+* PKI / Transit architecture
+
+---
+
+### 💾 Storage
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NFS-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Longhorn-00AEEF?style=flat-square&logo=longhorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes%20PV%2FPVC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+
+* Persistent Volume architecture
+* Persistent Volume Claim
+* NFS
+* Longhorn
+* Database persistence
+* Backup and recovery architecture
+
+---
+
+### 🗄️ Database & Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,kafka" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
+
+* MySQL
+* MongoDB
+* Apache Kafka
+* Event-driven architecture
+* Database persistence
+* Message-based application integration
+
+---
+
+## 🚀 Featured Projects
 
 ### ☸️ Kubernetes Platform Lab
 
 A production-oriented Kubernetes laboratory focused on infrastructure architecture and platform operations.
 
-**Stack**
+**Key Technologies**
 
-`Kubernetes` · `Cilium` · `Gateway API` · `Argo CD` · `Vault` · `Longhorn` · `NFS`
+`Kubernetes` `Cilium` `Gateway API` `Argo CD` `Vault` `ESO` `Longhorn` `NFS`
 
 **Focus**
 
-* Kubernetes cluster construction
-* CNI and network architecture
-* Gateway-based service exposure
+* Multi-node Kubernetes cluster
+* CNI and cluster networking
+* Gateway API
 * GitOps deployment
 * Secrets management
 * Persistent storage
 * Backup architecture
 * Infrastructure troubleshooting
+
+> Repository: **Coming Soon**
 
 ---
 
@@ -127,53 +222,60 @@ A production-oriented Kubernetes laboratory focused on infrastructure architectu
 
 A Kubernetes-based CQRS environment using event-driven architecture.
 
-**Stack**
-
-`Spring Boot` · `MySQL` · `MongoDB` · `Kafka` · `Kubernetes` · `Argo CD`
-
 **Architecture**
 
 ```text
-Application
-    │
-    ├── Producer
-    │      │
-    │      ▼
-    │    Kafka
-    │      │
-    │      ▼
-    │   Consumer
-    │
-    ├── MySQL
-    │
-    └── MongoDB
+                ┌─────────────┐
+                │   Producer  │
+                └──────┬──────┘
+                       │
+                       ▼
+                ┌─────────────┐
+                │    Kafka    │
+                └──────┬──────┘
+                       │
+                       ▼
+                ┌─────────────┐
+                │   Consumer  │
+                └──────┬──────┘
+                       │
+              ┌────────┴────────┐
+              ▼                 ▼
+          ┌───────┐         ┌─────────┐
+          │ MySQL │         │ MongoDB │
+          └───────┘         └─────────┘
 ```
 
-**Infrastructure Focus**
+**Infrastructure**
 
-* Kubernetes workload deployment
-* Kafka-based asynchronous messaging
+`Kubernetes` `Kafka` `MySQL` `MongoDB` `Argo CD`
+
+**Focus**
+
+* Event-driven architecture
+* Kubernetes deployment
 * Database persistence
-* GitOps deployment
+* GitOps
 * Containerized application delivery
-* Infrastructure automation
+
+> Repository: **Coming Soon**
 
 ---
 
-## Engineering Focus
+## 🏗️ Engineering Focus
 
 ### Platform Engineering
 
-Building reusable and reliable internal platforms that reduce operational complexity and improve developer experience.
+Building reusable and reliable platforms that reduce operational complexity and improve developer experience.
 
 ### Infrastructure Engineering
 
-Designing infrastructure across:
+Working across:
 
 ```text
 Compute
   ↓
-Container
+Containers
   ↓
 Kubernetes
   ↓
@@ -188,29 +290,29 @@ Automation
 
 ### GitOps
 
-Managing Kubernetes resources declaratively through Git.
+Managing infrastructure and application delivery declaratively through Git.
 
 ```text
 Developer
-   │
-   ▼
+    │
+    ▼
    Git
-   │
-   ▼
-Argo CD
-   │
-   ▼
+    │
+    ▼
+ Argo CD
+    │
+    ▼
 Kubernetes
-   │
-   ▼
-Application Platform
+    │
+    ▼
+Platform
 ```
 
 ---
 
-## Roadmap
+## 🗺️ Roadmap
 
-Technologies and areas I plan to explore:
+Areas I plan to explore and expand.
 
 ### ☁️ Cloud
 
@@ -233,18 +335,20 @@ Technologies and areas I plan to explore:
 * Infrastructure Automation
 * Configuration Management
 
-> These areas are part of my ongoing learning roadmap.
+> These areas are part of my ongoing learning and infrastructure roadmap.
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-* 정보처리기사
-* SQLD
+<p align="left">
+  <img src="https://img.shields.io/badge/정보처리기사-Certified-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLD-Certified-2563eb?style=flat-square" />
+</p>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 ```text
 Kubernetes
@@ -252,24 +356,34 @@ GitOps
 Cloud Infrastructure
 Platform Engineering
 Infrastructure Security
-Storage & Networking
+Networking
+Storage
 ```
 
 ---
 
-## GitHub Stats
-
-<!-- GitHub statistics can be added later -->
-
----
-
-## Connect
-
-* GitHub: [github.com/hgyim00](https://github.com/hgyim00)
-* LinkedIn: [Coming Soon]
-
----
+## 📊 GitHub Activity
 
 <p align="center">
-  <sub>Infrastructure • Kubernetes • Cloud • GitOps • Platform Engineering</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=hgyim00&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgyim00&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://github.com/hgyim00">
+    <img src="https://img.shields.io/badge/GitHub-hgyim00-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"
+    width="100%"
+  />
 </p>
