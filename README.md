@@ -1,22 +1,23 @@
-<!-- ===================== HEADER ===================== -->
+<!-- =========================================================
+     HEADER
+     ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20%26%20Infrastructure%20Engineer&descAlignY=58&descSize=20"
+    src=
+    "https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Platform%20&%20Infrastructure%20Engineer&descAlignY=58&descSize=20"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hgyim00">
-    <img src="https://img.shields.io/badge/GitHub-hgyim00-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Platform%20Engineering-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/Infrastructure-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square" />
 </p>
 
-<br/>
+---
 
 ## 👋 About Me
 
@@ -61,19 +62,19 @@ Cloud Infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### ☸️ Kubernetes & Platform
+## ☸️ Kubernetes & Platform
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,bash" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black" />
-  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&logo=projectcalico&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gateway%20API-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&amp;logo=cilium&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&amp;logo=projectcalico&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Gateway%20API-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
 
 * Kubernetes cluster architecture
@@ -86,17 +87,17 @@ Cloud Infrastructure
 
 ---
 
-### 🔄 CI/CD & GitOps
+## 🔄 CI/CD & GitOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&amp;logo=argo&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&amp;logo=subversion&amp;logoColor=white" />
 </p>
 
 * Git-based source control
@@ -109,17 +110,17 @@ Cloud Infrastructure
 
 ---
 
-### 🌐 Networking
+## 🌐 Networking
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black" />
-  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&logo=projectcalico&logoColor=white" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&amp;logo=cilium&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Calico-3A8DDE?style=flat-square&amp;logo=projectcalico&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&amp;logo=wireguard&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&amp;logo=tailscale&amp;logoColor=white" />
 </p>
 
 * Kubernetes networking
@@ -131,15 +132,11 @@ Cloud Infrastructure
 
 ---
 
-### 🔐 Security & Secrets
+## 🔐 Security & Secrets
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/External%20Secrets-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&amp;logo=vault&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/External%20Secrets-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
 
 * Secrets management
@@ -151,16 +148,12 @@ Cloud Infrastructure
 
 ---
 
-### 💾 Storage
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+## 💾 Storage
 
 <p align="left">
   <img src="https://img.shields.io/badge/NFS-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Longhorn-00AEEF?style=flat-square&logo=longhorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes%20PV%2FPVC-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longhorn-00AEEF?style=flat-square&amp;logo=longhorn&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes%20PV%2FPVC-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
 
 * Persistent Volume architecture
@@ -172,16 +165,16 @@ Cloud Infrastructure
 
 ---
 
-### 🗄️ Database & Messaging
+## 🗄️ Database & Messaging
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,kafka" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
 </p>
 
 * MySQL
@@ -193,36 +186,37 @@ Cloud Infrastructure
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ☸️ Kubernetes Platform Lab
+## ☸️ Kubernetes Platform Lab
 
 A production-oriented Kubernetes laboratory focused on infrastructure architecture and platform operations.
 
-**Key Technologies**
+### Key Technologies
 
 `Kubernetes` `Cilium` `Gateway API` `Argo CD` `Vault` `ESO` `Longhorn` `NFS`
 
-**Focus**
+### Infrastructure
 
 * Multi-node Kubernetes cluster
-* CNI and cluster networking
+* Cilium-based cluster networking
 * Gateway API
-* GitOps deployment
-* Secrets management
-* Persistent storage
-* Backup architecture
+* GitOps deployment with Argo CD
+* Vault-based secrets management
+* External Secrets Operator
+* Persistent storage with Longhorn / NFS
+* Backup and recovery architecture
 * Infrastructure troubleshooting
 
-> Repository: **Coming Soon**
+> **Repository:** Coming Soon
 
 ---
 
-### 🔄 CQRS Application Platform
+## 🔄 CQRS Application Platform
 
 A Kubernetes-based CQRS environment using event-driven architecture.
 
-**Architecture**
+### Architecture
 
 ```text
                 ┌─────────────┐
@@ -246,11 +240,11 @@ A Kubernetes-based CQRS environment using event-driven architecture.
           └───────┘         └─────────┘
 ```
 
-**Infrastructure**
+### Infrastructure
 
 `Kubernetes` `Kafka` `MySQL` `MongoDB` `Argo CD`
 
-**Focus**
+### Focus
 
 * Event-driven architecture
 * Kubernetes deployment
@@ -258,11 +252,11 @@ A Kubernetes-based CQRS environment using event-driven architecture.
 * GitOps
 * Containerized application delivery
 
-> Repository: **Coming Soon**
+> **Repository:** Coming Soon
 
 ---
 
-## 🏗️ Engineering Focus
+# 🏗️ Engineering Focus
 
 ### Platform Engineering
 
@@ -270,21 +264,19 @@ Building reusable and reliable platforms that reduce operational complexity and 
 
 ### Infrastructure Engineering
 
-Working across:
-
 ```text
 Compute
-  ↓
+   ↓
 Containers
-  ↓
+   ↓
 Kubernetes
-  ↓
+   ↓
 Networking
-  ↓
+   ↓
 Storage
-  ↓
+   ↓
 Security
-  ↓
+   ↓
 Automation
 ```
 
@@ -310,7 +302,7 @@ Platform
 
 ---
 
-## 🗺️ Roadmap
+# 🗺️ Roadmap
 
 Areas I plan to explore and expand.
 
@@ -339,7 +331,7 @@ Areas I plan to explore and expand.
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/정보처리기사-Certified-0f172a?style=flat-square" />
@@ -348,7 +340,7 @@ Areas I plan to explore and expand.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ```text
 Kubernetes
@@ -362,20 +354,26 @@ Storage
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgyim00&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgyim00&layout=compact&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hgyim00&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgyim00&amp;layout=compact&amp;hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
 
-## 🤝 Connect
+# 🤝 Connect
 
 <p align="left">
   <a href="https://github.com/hgyim00">
-    <img src="https://img.shields.io/badge/GitHub-hgyim00-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-hgyim00-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
@@ -383,7 +381,7 @@ Storage
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563eb,100:0f172a&amp;height=120&amp;section=footer"
     width="100%"
   />
 </p>
