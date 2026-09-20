@@ -5,13 +5,6 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:ffffff,50:f0f9ff,100:bae6fd&amp;height=220&amp;section=header&amp;text=HYEGYUN%20YIM&amp;fontSize=48&amp;fontColor=000000&amp;fontAlignY=36&amp;desc=Cloud%20Engineer&amp;descAlignY=54&amp;descSize=20&amp;descColor=000000" width="100%"
-  />
-</p>
-
-
-<p align="center">
-  <img
     src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:f0f9ff,100:bae6fd&height=220&section=header&text=HYEGYUN%20YIM&fontSize=48&fontColor=000000&fontAlignY=36&desc=Cloud%20Engineer&descAlignY=54&descSize=20&descColor=000000" width="100%"
   />
 </p>
